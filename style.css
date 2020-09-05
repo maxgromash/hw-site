@@ -1,0 +1,33 @@
+body {
+	background-color: ecf0f1;
+	width: auto;
+	margin: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+header {
+	border-width:2px;
+	margin-left: 80px;
+	margin-right: 80px;
+	width: auto;
+	font-size: 40px;
+	font-family: 'Oswald', sans-serif;
+}
+
+section{ 
+	padding: 15px;
+	border: solid;
+	border-width:1px;
+	height: auto;
+	width: auto;
+	margin-left: 80px;
+	margin-right: 80px;
+	font-family: 'EB Garamond', serif;
+}
+
+footer{
+	margin: 20px;
+	clear: both;
+	height: auto;
+}
